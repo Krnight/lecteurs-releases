@@ -1,0 +1,6 @@
+{
+  "_doc": "Contrôle distant OriViews. disabledFeatures: fonctions à couper, ex. [\"translation\"]. minVersion: force la MAJ sous cette version (ex. \"0.1.43\"). message: texte affiché.",
+  "minVersion": null,
+  "disabledFeatures": [],
+  "message": null
+}
